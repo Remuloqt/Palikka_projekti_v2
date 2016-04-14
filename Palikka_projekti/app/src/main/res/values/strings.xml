@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Palikka_projekti</string>
+    <string name="logout_string">Log Out</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_main3">MainActivity3</string>
+    <string name="title_activity_main4">MainActivity4</string>
+</resources>
